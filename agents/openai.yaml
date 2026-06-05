@@ -1,0 +1,4 @@
+interface:
+  display_name: "Formula Image Fixer"
+  short_description: "Fix formulas before AI image generation"
+  default_prompt: "Use $formula-image-fixer to convert the formulas in this image prompt into clean LaTeX and specify formula-safe layout rules before generating the image."
